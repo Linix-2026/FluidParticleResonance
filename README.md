@@ -26,7 +26,3 @@
 
 - Processing 4.x (Java 模式)
 - Windows / macOS / Linux
-
-## 截图
-
-![Screenshot](screenshot.png)
