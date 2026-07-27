@@ -220,8 +220,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Inspired by the work of Daniel Shiffman and the Processing Foundation
 - Built with Processing 4.x - https://processing.org/
-
----
-
-*Created with ❤️ using Processing*
-
+  
