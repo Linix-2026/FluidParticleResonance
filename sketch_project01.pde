@@ -1,5 +1,5 @@
-// 流体粒子共鸣场 - 交互艺术设计程序
-// Processing 4.x Java模式
+// FluidParticleResonance
+// Processing 4.x Java
 
 // === 可调参数 ===
 // 粒子系统参数
